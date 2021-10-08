@@ -1,0 +1,14 @@
+{
+  "user1": {
+    "id": 1,
+    "name": "John Pollack"
+  },
+  "user2": {
+    "id": 2,
+    "name": "Mary Stevenson"
+  },
+  "user3": {
+    "id": 4,
+    "name": "Luke Shaw"
+  }
+}
